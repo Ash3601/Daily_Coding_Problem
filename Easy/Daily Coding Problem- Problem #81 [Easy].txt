@@ -1,0 +1,24 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Yelp.
+
+Given a mapping of digits to letters (as =
+in a phone number), and a digit string,
+return all possible letters the =
+number could represent. You can assume each
+valid number in the mapping is =
+a single digit.
+
+For example if {=E2=80=9C2=E2=80=9D: [=E2=80=9Ca=E2=80=9D,=
+ =E2=80=9Cb=E2=80=9D, =E2=80=9Cc=E2=80=9D], 3: [=E2=80=9Cd=E2=80=9D, =
+=E2=80=9Ce=E2=80=9D, =E2=80=9Cf=E2=80=9D], =E2=80=A6} then =
+=E2=80=9C23=E2=80=9D should
+return [=E2=80=9Cad=E2=80=9D, =
+=E2=80=9Cae=E2=80=9D, =E2=80=9Caf=E2=80=9D, =E2=80=9Cbd=E2=80=9D, =
+=E2=80=9Cbe=E2=80=9D, =E2=80=9Cbf=E2=80=9D, =E2=80=9Ccd=E2=80=9D, =
+=E2=80=9Cce=E2=80=9D, =E2=80=9Ccf"].
+
+
+------------------------------------=
+--------------------------------------------
+

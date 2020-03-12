@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- <input type="text"> -->
+    <input
+      type="submit"
+      name="sendNewSms"
+      class="inputButton"
+      id="sendNewSms"
+      value=" Send "
+      disabled="true"
+    />
+
+    <input type="checkbox" id="input1" onchange="checkBoxFun()" />
+    <input type="checkbox" id="input2" onchange="checkBoxFun()" />
+  </body>
+  <script>
+    function checkBoxFun() {
+      input1Obj = document.getElementById("input1");
+      input2Obj = document.getElementById("input2");
+      console.log(input1Obj);
+      console.log(input2Obj.disabled);
+      if (input1Obj.checked == false && input2Obj.checked == true) {
+        document.getElementById("sendNewSms").disabled = false;
+      }
+      if (input2Obj.checked == false && input1Obj.checked == true) {
+        document.getElementById("sendNewSms").disabled = false;
+      }
+      if (input2Obj.checked == true && input1Obj.checked == true) {
+        document.getElementById("sendNewSms").disabled = false;
+      }
+      if (input2Obj.checked == false && input1Obj.checked == false) {
+        document.getElementById("sendNewSms").disabled = true;
+      }
+    }
+  </script>
+</html>

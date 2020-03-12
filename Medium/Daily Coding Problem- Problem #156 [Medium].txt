@@ -1,0 +1,16 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Facebook.
+
+Given a positive integer n, find the =
+smallest number of squared integers which
+sum to n.
+
+For example, given n =3D 13, return 2 since 13 =3D 32 + 22 =3D 9 + 4.
+
+Given n =3D 27, return 3 since 27 =3D 32 + 32 + 32 =3D 9 + 9 + 9.
+
+
+---------------------------------------------------------------------------=
+-----
+

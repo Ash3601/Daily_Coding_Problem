@@ -1,0 +1,20 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Bloomberg.
+
+Determine whether there exists a =
+one-to-one character mapping from one string s1=20
+to another s2.
+
+For example, given s1 =3D abc and s2 =3D bcd, return true since we can map =
+a to b, b=20
+to c, and c to d.
+
+Given s1 =3D foo and s2 =3D bar, return =
+false since the o cannot map to two
+characters.
+
+
+-------------------------=
+-------------------------------------------------------
+

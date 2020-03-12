@@ -1,0 +1,18 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Google.
+
+Find the minimum number of coins =
+required to make n cents.
+
+You can use standard American denominations, =
+that is, 1=C2=A2, 5=C2=A2, 10=C2=A2, and 25=C2=A2.
+
+For example, given n =3D 16, return 3 since we can make it with a 10=C2=A2,=
+ a 5=C2=A2, and a
+1=C2=A2.
+
+
+----------------------------------------------=
+----------------------------------
+

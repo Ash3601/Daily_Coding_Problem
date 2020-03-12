@@ -1,0 +1,17 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked Microsoft.
+
+Using a read7() method that returns 7 =
+characters from a file, implement readN(n)
+which reads n characters.
+
+For example, given a file with the content =E2=80=9CHello world=E2=80=9D, =
+three read7() returns
+=E2=80=9CHello w=E2=80=9D, =E2=80=9Corld=E2=80=9D and=
+ then =E2=80=9C=E2=80=9D.
+
+
+-----------------------------------------------=
+---------------------------------
+

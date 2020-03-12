@@ -1,0 +1,21 @@
+Good morning! Here's your coding interview problem for today.
+
+This problem was asked by Dropbox.
+
+Given the root to a binary search tree,=
+ find the second largest node in the
+tree.
+
+
+------------------------------=
+--------------------------------------------------
+
+Ready to interview? Take Triplebyte's quiz [https://triplebyte.=
+com/a/K5Y7dNu/d]=20
+and skip straight to final interviews with top tech =
+companies!
+
+
+--------------------------------------------------------------=
+------------------
+
